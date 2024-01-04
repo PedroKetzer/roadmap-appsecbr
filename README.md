@@ -64,7 +64,7 @@ Recomendaria ler [esse artigo](https://www.convisoappsec.com/glossario/dast)
 ## Conteúdos extras e criadores legais de seguir:
 - [Ben-Hur](https://twitter.com/guiadeappsec) do [Guia de AppSec](https://www.guiadeappsec.com.br/), ele também tem um [canal no youtube](https://www.youtube.com/@GuiadeAppSec) com dicas
 - [Cássio Developer](https://cassiodeveloper.com.br/) do [DevSecOps PodCast](https://www.youtube.com/@CassioBatistaPereira)
-- [Carlos "CrowSec"], que além do [Web Hacking na Prática](https://app.hackingclub.com) tem um canal no Youtube com o [mesmo nome](https://www.youtube.com/@CarlosVieiraCrowSec)
+- [Carlos "CrowSec"](https://www.instagram.com/carlos.crowsec/), que além do [Web Hacking na Prática](https://app.hackingclub.com) tem um canal no Youtube com o [mesmo nome](https://www.youtube.com/@CarlosVieiraCrowSec)
 - [Daiane "wh0isdxk" Santos](https://www.instagram.com/wh0isdxk/) do [MobileHackingBr](https://www.instagram.com/mobilehackingbr/)
 - [Edu Santos](https://www.instagram.com/edusantos.official/) do canal [WarmSec](https://www.youtube.com/@edusantos.official)
 
