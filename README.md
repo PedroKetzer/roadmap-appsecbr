@@ -38,6 +38,7 @@ Para aprender sobre modelagem, veja:
 - [Modelando ameaças na prática - Cássio Batista](https://www.youtube.com/watch?v=ZiFw84hv5SQ)
 - [Workshop Modelagem de Ameaças - Edu Santos e Rafael Lachi](https://www.youtube.com/watch?v=wt-Nzz_waXk)
 - [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
+- [IriusRisk DeRisker Training Program](https://www.iriusrisk.com/derisker-training-and-certification)
 
 ## DevOps e Automações de Esteira
 Saber DevOps e automação de esteira em Application Security é crucial para garantir a integridade e segurança de aplicações. A integração contínua e entrega contínua (CI/CD) proporcionadas pelo DevOps permitem atualizações frequentes, enquanto a automação da esteira de segurança identifica e corrige vulnerabilidades de forma eficiente. Isso reduz o tempo de resposta a ameaças, fortalecendo a postura de segurança da aplicação. É comum que o time de AppSec Seja responsável por subir e manter ferramentas e automações de segurança. Então, essa skill é primordial.
