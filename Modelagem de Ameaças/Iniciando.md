@@ -39,7 +39,8 @@ A partir desses pontos você consegue visualizar e até rascunhar uma arquitetur
 
 Se baseando somente no que é comentado temos:
 
-![Desenho da Arquiteutra de Rascunho](imagens/rascunho.png)
+![Desenho da Arquiteutra de Rascunho](https://github.com/PedroKetzer/roadmap-appsecbr/assets/37319386/6d91a609-1b47-4c96-aa51-c274bfabfb3c)
+
 
 ## Levantamento de problemas
 
@@ -61,7 +62,8 @@ Depende do tamanho da empresa, do tamanho do time, da maturidade do time sobre a
 
 Ameaças poderíamos, em uma visão superficial, reduzir a 3 tipos de possibilidades, tais como:
 
-![Ameaças da Arquiteutra de Rascunho](imagens/ameacarascunho.png)
+![Ameaças da Arquiteutra de Rascunho](https://github.com/PedroKetzer/roadmap-appsecbr/assets/37319386/f5a94642-995c-4e17-8484-93f06ede0284)
+
 
 
 --
