@@ -26,6 +26,7 @@ Alguns links para te apoiar nesse tema:
 - [Paradigmas de Programação - João Paulo Leite](https://www.youtube.com/playlist?list=PLsri1g4fxrjuf6UCYHqCmqsfXR4gofAFH)
 - [How to Analyze Code for Vulnerabilities - Vickie Li (en)](https://www.youtube.com/watch?v=A8CNysN-lOM)
 - [In Code Review We Trust! Finding Security Bugs (pt-br) - Helena Carreço](https://www.youtube.com/watch?v=gewNYKjYybA&t=5586s)
+- [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/)
 - 💰 [PentesterLab](https://pentesterlab.com/)
 - 💰 [CodeBashing](https://www.codebashing.com/)
 
@@ -37,6 +38,7 @@ Para aprender sobre modelagem, veja:
 - [Modelagem de Ameaças - Conviso](https://www.youtube.com/watch?v=UWDqnhJsafY)
 - [Modelando ameaças na prática - Cássio Batista](https://www.youtube.com/watch?v=ZiFw84hv5SQ)
 - [Workshop Modelagem de Ameaças - Edu Santos e Rafael Lachi](https://www.youtube.com/watch?v=wt-Nzz_waXk)
+- [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
 - [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 - [IriusRisk DeRisker Training Program](https://www.iriusrisk.com/derisker-training-and-certification)
 
@@ -102,6 +104,7 @@ Outros cursos que podem te ajudar a desenvolver conhecimentos em descoberta de v
 Embora seja opcional quando se está por migrar ou em início de carreira, a avaliação de riscos em mobile se torna um diferencial gigantesco a medida que você evoluir!  Alguns recursos quepodem te ajudar a evoluir nesse item são:
 - [Android Application Security Series](https://manifestsecurity.com/android-application-security/)
 - [Android Applications Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
+- [Engenharia Reversa de Apps Android](https://www.youtube.com/watch?v=eHdDS2e_qf0&list=PL4zZ9lJ-RCbfv6f6Jc8cJ4ljKqENkTfi7)
 - 💰 [Android Hacker's Handbook](https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X)
 - 💰 [eMAPT](https://security.ine.com/certifications/emapt-certification/)
 
