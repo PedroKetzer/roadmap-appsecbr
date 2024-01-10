@@ -41,6 +41,7 @@ Para aprender sobre modelagem, veja:
 - [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
 - [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 - [IriusRisk DeRisker Training Program](https://www.iriusrisk.com/derisker-training-and-certification)
+- [Threat Modeling Security Fundamentals - Microsoft](https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/)
 
 ## DevOps e Automações de Esteira
 Saber DevOps e automação de esteira em Application Security é crucial para garantir a integridade e segurança de aplicações. A integração contínua e entrega contínua (CI/CD) proporcionadas pelo DevOps permitem atualizações frequentes, enquanto a automação da esteira de segurança identifica e corrige vulnerabilidades de forma eficiente. Isso reduz o tempo de resposta a ameaças, fortalecendo a postura de segurança da aplicação. É comum que o time de AppSec Seja responsável por subir e manter ferramentas e automações de segurança. Então, essa skill é primordial.
@@ -58,6 +59,9 @@ A seguir, algumas ferramentas que podem te apoiar. Ao escolher ferramentas de re
 
 ### SCA
 - [Component Analysis (en)](https://owasp.org/www-community/Component_Analysis)
+
+### IAST
+- [Interactive Application Security Testing - OWASP (en)](https://owasp.org/www-project-devsecops-guideline/latest/02c-Interactive-Application-Security-Testing)
 
 ### Secret Scanning
 - [Secrets Management - OWASP (en)](https://owasp.org/www-project-devsecops-guideline/latest/01a-Secrets-Management)
