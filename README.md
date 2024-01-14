@@ -5,9 +5,9 @@ Esse repositório foi criado com o intuito de ~espalhar a palavra do DevSecOps~ 
 Qualquer profissional de AppSec é bem vindo(a) para contribuir e acrescentar insights!
 
 ## Por que e pra quem é AppSec?
-Pode ser que você já tenha chegado com a resposta na sua cabeça, mas há quem possa estar indeciso: A área de AppSec (ao menos no BR, na minha visão) engloba aqueles profissionais que não querem viver apenas do pentest. Claro, a ideia de Red Team é fantástica e atrai muita gente na área (provavelmente a série do Mr.Robot trouxe mais gente pra área do que qualquer profissional e curso existente), mas de certa forma é uma opinão bem frequente no meio de AppSec que é difícil encontrar empresas que levam o conceito de Red Team ao pé da letra. Além disso, para aqueles que aprenderam programação ou até mesmo foram devs, terão uma transição e utilizarão esse conhecimento muito mais dentro de AppSec. Isso não quer dizer que em outras áreas não precisam programar, **não é isso**, mas quem gosta ou já se profissionalizou por meio de código e nutre interesse pela parte de segurança, se sentirá em casa como AppSec (obviamente, cada um terá uma experiência diferente sobre isso).
+Pode ser que você já tenha chegado com a resposta na sua cabeça, mas há quem possa estar indeciso(a): A área de AppSec (ao menos no BR, na minha visão) engloba aqueles profissionais que não querem viver apenas do pentest. Claro, a ideia de Red Team é fantástica e atrai muita gente na área (provavelmente a série do Mr.Robot trouxe mais gente pra área do que qualquer profissional e curso existente), mas de certa forma é uma opinão bem frequente no meio de AppSec que é difícil encontrar empresas que levam o conceito de Red Team ao pé da letra. Além disso, para aqueles que aprenderam programação ou até mesmo foram devs, terão uma transição facilitada e utilizarão esse conhecimento muito mais dentro de AppSec. Isso não quer dizer que em outras áreas não precisamos programar, **não é isso**, mas quem gosta ou já se profissionalizou por meio de código e nutre interesse pela parte de segurança, se sentirá em casa como AppSec (obviamente, cada um terá uma experiência diferente sobre isso).
 
-TL;DR - Se você não quer ser Red Team e quer fazer pentests, já foi dev mas quer ser de segurança, AppSec é pra você! Em muitas empresas, AppSecs também fazem pentest :D
+##### 💡 TL;DR - Se você não quer ser Red Team e quer fazer pentests, já foi dev mas quer ser de segurança, AppSec é pra você! Em muitas empresas, AppSecs também fazem pentest :D
 
 ## Eu já posso começar direto por esse repo? 
 Entende-se que, se você chegou até esse repo, na maioria dos casos é porque você já sabe que AppSec é um nicho e você já sabe as bases de SegInfo, talvez com exceção da programação. Não sabe? Não tem certeza? Volte algumas casas e [estude os conteúdos de iniciante desse roadmap](https://meninadecybersec.notion.site/Iniciando-em-Cybersecurity-e-Seguran-a-da-Informa-o-cfe02d5ac2b74576b315083387894890). É essencial porque muitos conteúdos aqui só farão sentido se você tiver as bases já estabelecidas. Você também pode complementar com [esse repo aqui](https://github.com/arthurspk/guiadecybersecurity)
@@ -30,7 +30,7 @@ Alguns links para te apoiar nesse tema:
 - 💰 [PentesterLab](https://pentesterlab.com/)
 - 💰 [CodeBashing](https://www.codebashing.com/)
 
-##### 💡 Vale seguir a PentesteLab no Twitter, pois frequentemente sorteiam vouchers de 1 ano de assinatura.
+##### 💡 Vale seguir a PentesterLab no Twitter, pois frequentemente sorteiam vouchers de 1 ano de assinatura.
 
 ## Modelagem de Ameaças
 A modelagem de ameaças no contexto do Application Security é essencial para antecipar e abordar potenciais vulnerabilidades nos sistemas. Ao identificar ameaças antes que se tornem ataques reais, os profissionais de segurança podem desenvolver estratégias preventivas, fortalecendo a segurança das aplicações. Essa abordagem proativa não apenas melhora a resiliência dos sistemas, mas também promove uma cultura de segurança desde as fases iniciais do desenvolvimento de aplicativos. 
@@ -43,9 +43,13 @@ Para aprender sobre modelagem, veja:
 - [IriusRisk DeRisker Training Program](https://www.iriusrisk.com/derisker-training-and-certification)
 - [Threat Modeling Security Fundamentals - Microsoft](https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/)
 
+##### 💡 Esse repo tem uma [sessão dedicada](https://github.com/molocohrrr/roadmap-appsecbr/tree/main/Modelagem%20de%20Amea%C3%A7as) para esse tema! :-)
+
 ## DevOps e Automações de Esteira
 Saber DevOps e automação de esteira em Application Security é crucial para garantir a integridade e segurança de aplicações. A integração contínua e entrega contínua (CI/CD) proporcionadas pelo DevOps permitem atualizações frequentes, enquanto a automação da esteira de segurança identifica e corrige vulnerabilidades de forma eficiente. Isso reduz o tempo de resposta a ameaças, fortalecendo a postura de segurança da aplicação. É comum que o time de AppSec Seja responsável por subir e manter ferramentas e automações de segurança. Então, essa skill é primordial.
 Aprenda sobre como automatizar seu processo em:
+- [Como criar uma pipeline CI/CD com GitHub Actions - Fabrício Veronez](https://www.youtube.com/watch?v=TKwXC5qSjkE&t=3868s)
+- [Descomplicando DOcker - LinuxTips](https://www.youtube.com/playlist?list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb)
 - [Implementing Secure CI/CD Pipelines (en)](https://www.youtube.com/playlist?list=PLjNII-Jkdjfz5EXWlGMBRk63PC8uJsHMo)
 - [DevSecOps Guides (en)](https://devsecopsguides.com/)
 
@@ -95,13 +99,25 @@ O ASVS (Application Security Verification Standard) é um conjunto de requisitos
 O OWASP Cheatsheets é um recurso que consiste em documentos de referência rápida contendo orientações práticas e conselhos para abordar desafios específicos de segurança em desenvolvimento de software. Esses cheatsheets são projetados para auxiliar a implementar boas práticas de segurança durante o ciclo de vida do desenvolvimento de software e abrangem uma variedade de tópicos, desde codificação segura até mitigação de ameaças específicas, fornecendo informações detalhadas e acionáveis para melhorar a segurança de aplicações. Esse projeto costuma ser uma mão na roda ao lidar com desenvolvedores com menos experiência em segurança, com traz exemplos de código em linguagens específicas, com soluções práticas que elespodem reutilizar.
 - [OWASP CheatsheetSeries](https://cheatsheetseries.owasp.org/index.html)
 
+
+## Cloud
+Ter conhecimentos em cloud é crucial, pois permite a implementação eficiente de práticas de segurança em ambientes dinâmicos. Na nuvem, as aplicações podem ser escaladas rapidamente, exigindo uma abordagem ágil para integração de segurança. Além disso, o entendimento das ferramentas e serviços em nuvem é essencial para automatizar processos. Não é necessário que você conheça todas as especifidades dos diversos cloud service providers: entendendo a fundo os conceitos e sabendo implementar em um deles, você terá facilidade parase virar em outros :-)
+#### 💡 Muitos cloud providers oferecem um "free tier", um período gratuito de acesso e usoas ferramentas. Aproveite-o para estudar!
+
+Para aprender sobre esse tema:
+- [AWS Skills Centers (en)](https://aws.amazon.com/pt/training/skills-centers/?nc2=sb_ep_asc)
+- [Capacitação em Nuvem Grupo Boticário (pt-br)](https://aws-boticario.ontidwit.com/#/)
+- [Microsoft Azure Virtual Training Days (en)](https://events.microsoft.com/pt-br/mvtd-azure?language=English&clientTimeZone=1&startTime=08:00&endTime=17:00)
+
   
 ## Pentests e Ferramentas
 Sendo uma área relativamente nova, as responsabilidades do profissional de AppSec podem variar entre as empresas (conheça mais sobre as diferentes formas de fazer AppSec [nessa palestra da Gi Assis "gihyperia"](https://www.youtube.com/watch?v=UCmX5mo0b1U&list=PLUJRxfaTTjKwjkyLiWtxPh5gADtbG5Oo1&index=3&t=527s)). Dito isso, em muitas empresas será comum que a atividade de pentest também seja uma atividade de AppSec. Então, é essencial que você manje de descoberta de vulnerabilidades, como complemento aos seus conhecimentos em code review e uso de ferramentas de análise de código. Nessa frente, a ferramenta que mais usada, será o 💰 [BurpSuite](https://portswigger.net/burp). É altamente recomendado fazer o [curso gratuito oferecido por eles](https://portswigger.net/web-security) e **opcionalmente** tirar a cert deles, se tu tiver um troquinho sobrando aí (hoje gira mais ou menos em torno de 100 dólares).
 
-Outros cursos que podem te ajudar a desenvolver conhecimentos em descoberta de vulnerabilidades e também tem prova de certificação:
+Outros cursos que podem te ajudar a desenvolver conhecimentos em descoberta de vulnerabilidades (alguns também tem prova de certificação!):
 - 💰 [Web Hacking na Prática](https://app.hackingclub.com)
 - 💰 [Pentest DESEC](https://desecsecurity.com/curso/novo-pentest-profissional)
+- [Portswigger Academy](https://portswigger.net/web-security/all-labs)
+- [Introdução ao Pentest - Desec](https://desecsecurity.com/curso/introducao-pentest)
 
 
 ## Mobile
@@ -112,7 +128,8 @@ Embora seja opcional quando se está por migrar ou em início de carreira, a ava
 - 💰 [Android Hacker's Handbook](https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X)
 - 💰 [eMAPT](https://security.ine.com/certifications/emapt-certification/)
 
-#### 💰  Optar Java como a sua principal linguagem reduzirá muito a dificuldade em aprender sobre essa parte
+#### 💰  Optar Java como a sua principal linguagem reduzirá muito a dificuldade em aprender sobre essa parte!
+
 
 ## Soft Skills
 Soft Skills e comunicação assertiva são muito importantes para alguém de AppSec, mas **muito** mesmo, quase mais do que as hard skills! Isso é dito porque faz parte do cotidiano conversar com devs que estão nos mais variados níveis de carreira, desde o estagiário até o expert conhecido na bolha dev. Nessas horas não basta dizer: "esse código tá ruim, corrige aí". É esperado que alguém de AppSec se torne uma referência, tenha jogo de cintura, seja maleável (a vida não é binária né?) e saber conversar e explicar coisas pra pessoas que nem sempre estão propensas a concordar contigo, além de normalmente não terem background de segurança.
