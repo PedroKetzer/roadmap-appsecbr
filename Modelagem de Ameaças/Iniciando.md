@@ -1,3 +1,16 @@
+##### 💡 Todas as sugestões de curso/conteúdo a seguir são gratuitas, exceto as marcadas com 💰
+
+# Modelagem de Ameaças
+A modelagem de ameaças no contexto do Application Security é essencial para antecipar e abordar potenciais vulnerabilidades nos sistemas. Ao identificar ameaças antes que se tornem ataques reais, os profissionais de segurança podem desenvolver estratégias preventivas, fortalecendo a segurança das aplicações. Essa abordagem proativa não apenas melhora a resiliência dos sistemas, mas também promove uma cultura de segurança desde as fases iniciais do desenvolvimento de aplicativos. 
+Para aprender sobre modelagem, veja:
+- [Modelagem de Ameaças - Conviso](https://www.youtube.com/watch?v=UWDqnhJsafY)
+- [Modelando ameaças na prática - Cássio Batista](https://www.youtube.com/watch?v=ZiFw84hv5SQ)
+- [Workshop Modelagem de Ameaças - Edu Santos e Rafael Lachi](https://www.youtube.com/watch?v=wt-Nzz_waXk)
+- [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
+- [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
+- [IriusRisk DeRisker Training Program](https://www.iriusrisk.com/derisker-training-and-certification)
+- [Threat Modeling Security Fundamentals - Microsoft](https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/)
+
 # Os primeiros passos sobre a modelagem
 
 A modelagem de ameaças é um processo utilizado na área de segurança da informação para identificar e entender potenciais ameaças e vulnerabilidades que um sistema, aplicativo ou projeto. Abstrato eu diria, não é mesmo? Entenda que além de segurança deve ser capaz de falar sobre o negócio assim como suas peculiaridades, desde o que um caminho feliz de usuário esperado até as possíveis tentativas de explorações, cenários maliciosos, tudo que será ofensor para sua atuação.
