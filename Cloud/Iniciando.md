@@ -2,7 +2,7 @@
 
 # Cloud
 Ter conhecimentos em cloud é crucial, pois permite a implementação eficiente de práticas de segurança em ambientes dinâmicos. Na nuvem, as aplicações podem ser escaladas rapidamente, exigindo uma abordagem ágil para integração de segurança. Além disso, o entendimento das ferramentas e serviços em nuvem é essencial para automatizar processos. Não é necessário que você conheça todas as especifidades dos diversos cloud service providers: entendendo a fundo os conceitos e sabendo implementar em um deles, você terá facilidade parase virar em outros :-)
-#### 💡 Muitos cloud providers oferecem um "free tier", um período gratuito de acesso e usoas ferramentas. Aproveite-o para estudar!
+#### 💡 Muitos cloud providers oferecem um "free tier", um período gratuito de acesso e uso das ferramentas. Aproveite-o para estudar!
 
 Para aprender sobre esse tema:
 - [AWS Skills Centers (en)](https://aws.amazon.com/pt/training/skills-centers/?nc2=sb_ep_asc)
