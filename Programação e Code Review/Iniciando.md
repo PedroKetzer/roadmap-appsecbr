@@ -13,3 +13,5 @@ Alguns links para te apoiar nesse tema:
 - [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/)
 - 💰 [PentesterLab](https://pentesterlab.com/)
 - 💰 [CodeBashing](https://www.codebashing.com/)
+
+##### 💡 Vale seguir a PentesterLab no Twitter, pois frequentemente sorteiam vouchers de 1 ano de assinatura.
