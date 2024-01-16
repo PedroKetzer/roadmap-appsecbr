@@ -7,6 +7,7 @@ Aprenda sobre como automatizar seu processo em:
 - [Descomplicando DOcker - LinuxTips](https://www.youtube.com/playlist?list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb)
 - [Implementing Secure CI/CD Pipelines (en)](https://www.youtube.com/playlist?list=PLjNII-Jkdjfz5EXWlGMBRk63PC8uJsHMo)
 - [DevSecOps Guides (en)](https://devsecopsguides.com/)
+- [Construindo uma pipeline segura na AWS (SCA, SAST e DAST) (pt-br)](https://aws.amazon.com/pt/blogs/aws-brasil/construindo-um-pipeline-de-ci-cd-aws-devsecops-de-ponta-a-ponta-com-ferramentas-de-codigo-aberto-sca-sast-e-dast/)
 
 A seguir, algumas ferramentas que podem te apoiar. Ao escolher ferramentas de revisão de código, certifique-se de que elas tem suporte para sua linguagem/stack:
 

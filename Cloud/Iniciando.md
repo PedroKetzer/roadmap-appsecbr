@@ -8,3 +8,4 @@ Para aprender sobre esse tema:
 - [AWS Skills Centers (en)](https://aws.amazon.com/pt/training/skills-centers/?nc2=sb_ep_asc)
 - [Capacitação em Nuvem Grupo Boticário (pt-br)](https://aws-boticario.ontidwit.com/#/)
 - [Microsoft Azure Virtual Training Days (en)](https://events.microsoft.com/pt-br/mvtd-azure?language=English&clientTimeZone=1&startTime=08:00&endTime=17:00)
+- [Cloud Architecture Security - OWASP (en)](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Cloud_Architecture_Cheat_Sheet.html)

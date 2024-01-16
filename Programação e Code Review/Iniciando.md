@@ -14,4 +14,8 @@ Alguns links para te apoiar nesse tema:
 - 💰 [PentesterLab](https://pentesterlab.com/)
 - 💰 [CodeBashing](https://www.codebashing.com/)
 
+Alguns links sobre desenvolvimento seguro:
+- [OWASP Secure Coding Practices-Quick Reference (en)](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/)
+- [SecureCodingDojo (en)](https://owasp.org/SecureCodingDojo/)
+- [Top 5 VS Code extensions for security (en) - Snyk Blog](https://snyk.io/pt-BR/blog/top-5-vs-code-extensions-security/)
 ##### 💡 Vale seguir a PentesterLab no Twitter, pois frequentemente sorteiam vouchers de 1 ano de assinatura.
