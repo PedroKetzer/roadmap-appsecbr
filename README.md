@@ -14,133 +14,25 @@ Entende-se que, se você chegou até esse repo, na maioria dos casos é porque v
 
 # Skills, Ferramentas e o que estudar 
 
-##### 💡 Todas as sugestões de curso/conteúdo a seguir são gratuitas, exceto as marcadas com 💰
+##### 💡 Clique na sessão desejada para se aprofundar no tema. Todas as sugestões de curso/conteúdo a seguir são gratuitas, exceto marcadas com 💰
 
-## Programação e Code Review
-Acho que esse é o mais óbvio de todos: não existe Application Security (vulgo Segurança de Aplicações) sem a Aplicação xD. Quando se trata de programação dentro do mundo de AppSec, a pessoa que trabalha com isso precisa ser agnóstica quando se trata de linguagem de programação. Ao contrário do que muitas vezes ocorre no mundo Dev, não existe uma discussão de qual linguagem é "melhor ou pior": simplesmente existem as linguagens com que a sua empresa trabalha. Se a stack da sua empresa envolver Cobol, Erlang e Pascal, você precisará ser capaz de fazer code review nessas linguagens e ponto final. ~Claro que isso é uma hipérbole pra deixar clara a expectativa que terão sobre você~. Obviamente, se você entrar no emprego como Jr/Sandy ou até mesmo como Pleno, em alguns casos, te permitirão ter uma curva de aprendizado. Mas, o foco aqui é que você pode até ter uma linguagem favorita, mas, todas em que você tocar, você precisará se tornar capaz de executar um code review.
+## 🔗 [Programação e Code Review](https://github.com/molocohrrr/roadmap-appsecbr/blob/main/Programa%C3%A7%C3%A3o%20e%20Code%20Review/Iniciando.md)
 
-Tratando-se de escolher uma linguagem inicial, considere escolher uma linguagem backend de alto nível para facilitar seu primeiro contato. Esqueça frameworks e abstrações no início. Durante a sua evolução profissional como AppSec, você perceberá a necessidade de aprender ṕelo menos uma linguagem de cada um dos principais paradigmas do mercado (imperativo, orientado a objetos, funcional e orientado a eventos). Entendendo "lógica de programação" como uma forma de pensar e resolver problemas, "paradigmas" são diferentes formas de encadeamento lógico para chegar a uma solução (te tapearam quando te disseram que só existia uma forma de lógica de programação, viu? ;-) ). Se você quiser chegar ao topo da carreira técnica, é necessário que você converse de igual pra igual com um dev nesse tópico!
+## 🔗 [Modelagem de Ameaças](https://github.com/molocohrrr/roadmap-appsecbr/tree/main/Modelagem%20de%20Amea%C3%A7as)
 
-Alguns links para te apoiar nesse tema:
-- [Curso Python - Gustavo Guanabara](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6&index=1)
-- [Paradigmas de Programação - João Paulo Leite](https://www.youtube.com/playlist?list=PLsri1g4fxrjuf6UCYHqCmqsfXR4gofAFH)
-- [How to Analyze Code for Vulnerabilities - Vickie Li (en)](https://www.youtube.com/watch?v=A8CNysN-lOM)
-- [In Code Review We Trust! Finding Security Bugs (pt-br) - Helena Carreço](https://www.youtube.com/watch?v=gewNYKjYybA&t=5586s)
-- [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/)
-- 💰 [PentesterLab](https://pentesterlab.com/)
-- 💰 [CodeBashing](https://www.codebashing.com/)
+## 🔗 [DevOps e Automações de Esteira](https://github.com/molocohrrr/roadmap-appsecbr/blob/main/DevOps%20e%20Automa%C3%A7%C3%B5es%20de%20Esteira/Iniciando.md)
 
-##### 💡 Vale seguir a PentesterLab no Twitter, pois frequentemente sorteiam vouchers de 1 ano de assinatura.
+## 🔗 [DevSecOps](https://github.com/molocohrrr/roadmap-appsecbr/blob/main/DevSecOps/Iniciando.md)
 
-## Modelagem de Ameaças
-A modelagem de ameaças no contexto do Application Security é essencial para antecipar e abordar potenciais vulnerabilidades nos sistemas. Ao identificar ameaças antes que se tornem ataques reais, os profissionais de segurança podem desenvolver estratégias preventivas, fortalecendo a segurança das aplicações. Essa abordagem proativa não apenas melhora a resiliência dos sistemas, mas também promove uma cultura de segurança desde as fases iniciais do desenvolvimento de aplicativos. 
-Para aprender sobre modelagem, veja:
-- [Modelagem de Ameaças - Conviso](https://www.youtube.com/watch?v=UWDqnhJsafY)
-- [Modelando ameaças na prática - Cássio Batista](https://www.youtube.com/watch?v=ZiFw84hv5SQ)
-- [Workshop Modelagem de Ameaças - Edu Santos e Rafael Lachi](https://www.youtube.com/watch?v=wt-Nzz_waXk)
-- [OWASP Threat Modeling Process](https://owasp.org/www-community/Threat_Modeling_Process)
-- [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
-- [IriusRisk DeRisker Training Program](https://www.iriusrisk.com/derisker-training-and-certification)
-- [Threat Modeling Security Fundamentals - Microsoft](https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/)
+## 🔗 [OWASP](https://github.com/molocohrrr/roadmap-appsecbr/blob/main/OWASP/Iniciando.md)
 
-##### 💡 Esse repo tem uma [sessão dedicada](https://github.com/molocohrrr/roadmap-appsecbr/tree/main/Modelagem%20de%20Amea%C3%A7as) para esse tema! :-)
-
-## DevOps e Automações de Esteira
-Saber DevOps e automação de esteira em Application Security é crucial para garantir a integridade e segurança de aplicações. A integração contínua e entrega contínua (CI/CD) proporcionadas pelo DevOps permitem atualizações frequentes, enquanto a automação da esteira de segurança identifica e corrige vulnerabilidades de forma eficiente. Isso reduz o tempo de resposta a ameaças, fortalecendo a postura de segurança da aplicação. É comum que o time de AppSec Seja responsável por subir e manter ferramentas e automações de segurança. Então, essa skill é primordial.
-Aprenda sobre como automatizar seu processo em:
-- [Como criar uma pipeline CI/CD com GitHub Actions - Fabrício Veronez](https://www.youtube.com/watch?v=TKwXC5qSjkE&t=3868s)
-- [Descomplicando DOcker - LinuxTips](https://www.youtube.com/playlist?list=PLf-O3X2-mxDk1MnJsejJwqcrDC5kDtXEb)
-- [Implementing Secure CI/CD Pipelines (en)](https://www.youtube.com/playlist?list=PLjNII-Jkdjfz5EXWlGMBRk63PC8uJsHMo)
-- [DevSecOps Guides (en)](https://devsecopsguides.com/)
-
-A seguir, algumas ferramentas que podem te apoiar. Ao escolher ferramentas de revisão de código, certifique-se de que elas tem suporte para sua linguagem/stack:
-
-### SAST
-- [Source Code Analysis Tools - OWASP (en)](https://owasp.org/www-community/Source_Code_Analysis_Tools)
-
-### DAST
-- [Dynamic Application Security Testing - OWASP (en)](https://owasp.org/www-project-devsecops-guideline/latest/02b-Dynamic-Application-Security-Testing)
-
-### SCA
-- [Component Analysis (en)](https://owasp.org/www-community/Component_Analysis)
-
-### IAST
-- [Interactive Application Security Testing - OWASP (en)](https://owasp.org/www-project-devsecops-guideline/latest/02c-Interactive-Application-Security-Testing)
-
-### Secret Scanning
-- [Secrets Management - OWASP (en)](https://owasp.org/www-project-devsecops-guideline/latest/01a-Secrets-Management)
-
-### IaC security scanning
-- [Container Vulnerability Scanning (en)](https://owasp.org/www-project-devsecops-guideline/latest/02f-Container-Vulnerability-Scanning)
-
-
-## DevSecOps
-Embora muitas empresas usem DevOps e DevSecOps para nomear cargos, esses são processos que vão muito além das ferramentas de automação: passam por treinamento das pessoas, evolução da cultura e maturidade de segurança da empresa e todas as ações que aproximam a Segurança de Aplicações do famoso shift-left.
-Pensando em processos, maturidade e treinamentos, podem te auxiliar:
-- [Security Champions Playbook (pt-br)](https://github.com/c0rdis/security-champions-playbook/tree/master/Security%20Playbook_PTBR)
-- [OWASP SAMM (en)](https://owaspsamm.org))
-- [Security Champions: Elevando a Maturidade de Segurança - Helena Carreço "Molocohorror"](https://www.youtube.com/watch?v=tJ7kqOtyuxQ&t=8131s)
-
-
-## OWASP
-A partir de hoje, a OWASP é a sua melhor amiga. Se você não sabe quem é a OWASP e também não usou o Google até aqui, confira [aqui](https://owasp.org/about/). A seguir, alguns dos principais projetos da OWASP. Observe que a OWASP tem [mais de 300 projetos](https://owasp.org/projects/), e essa lista foi construída com base em experiência, podendo variar de empresa pra empresa. 
-
-### OWASP Top 10
-O maior projeto que você precisa acompanhar é o [Top 10](https://owasp.org/www-project-top-ten/). A OWASP Top 10 é uma coleção das 10 principais ameaças de seguranças identificadas pela organização. Atualizada de tempos em tempos, consiste de oito principais levantadas por meio de análise de dados, considerando "prevalência" ao invés de quantidade de testes, e duas orquestradas pela comunidade. Observe que, quando falamos de "Top 10 OWASP", geralmente nos referimos ao Top 10 de vulnerabilidades WEB. No entanto, a OWASP disponibiliza um Top 10 Mobile, API, LLM, entre outros. É muito importante identificar o que faz mais sentido no contexto da sua empresa!
-
-#### 💡 Além dessa extrema relevância, o Top 10 é de longe o tópico mais perguntado nas entrevistas para a senioridade júnior/sandy: geralmente pedem o conceito de uma ou mais vulnerabilidades, como identificar ela no código, como ela pode ser explorada e qual seria a correção sugerida! 
-
-### ASVS/MASVS
-O ASVS (Application Security Verification Standard) é um conjunto de requisitos e controles de segurança usado para avaliar e verificar a segurança de aplicações. Ele fornece uma estrutura detalhada para garantir que as aplicações estejam protegidas contra ameaças comuns. Já o MASVS (Mobile Application Security Verification Standard), é uma extensão do ASVS especificamente projetada para avaliar a segurança de aplicativos móveis. Ele estabelece diretrizes e requisitos específicos para garantir a robustez da segurança em plataformas móveis, abordando ameaças únicas associadas a aplicativos para dispositivos móveis. Esses dois projetos, são instrumentos valiosos para desenvolvedores e AppSecs, apoiando como checklists para levantamento de requisitos de segurança e apoio na Modelagem de Ameaças:
-- [ASVS - Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/#)
-- [MASVS - Mobile Application Security Verification Standard ](https://github.com/OWASP/owasp-masvs/releases/latest/download/OWASP_MASVS.pdf)
-
-### Cheatsheets
-O OWASP Cheatsheets é um recurso que consiste em documentos de referência rápida contendo orientações práticas e conselhos para abordar desafios específicos de segurança em desenvolvimento de software. Esses cheatsheets são projetados para auxiliar a implementar boas práticas de segurança durante o ciclo de vida do desenvolvimento de software e abrangem uma variedade de tópicos, desde codificação segura até mitigação de ameaças específicas, fornecendo informações detalhadas e acionáveis para melhorar a segurança de aplicações. Esse projeto costuma ser uma mão na roda ao lidar com desenvolvedores com menos experiência em segurança, com traz exemplos de código em linguagens específicas, com soluções práticas que elespodem reutilizar.
-- [OWASP CheatsheetSeries](https://cheatsheetseries.owasp.org/index.html)
-
-
-## Cloud
-Ter conhecimentos em cloud é crucial, pois permite a implementação eficiente de práticas de segurança em ambientes dinâmicos. Na nuvem, as aplicações podem ser escaladas rapidamente, exigindo uma abordagem ágil para integração de segurança. Além disso, o entendimento das ferramentas e serviços em nuvem é essencial para automatizar processos. Não é necessário que você conheça todas as especifidades dos diversos cloud service providers: entendendo a fundo os conceitos e sabendo implementar em um deles, você terá facilidade parase virar em outros :-)
-#### 💡 Muitos cloud providers oferecem um "free tier", um período gratuito de acesso e usoas ferramentas. Aproveite-o para estudar!
-
-Para aprender sobre esse tema:
-- [AWS Skills Centers (en)](https://aws.amazon.com/pt/training/skills-centers/?nc2=sb_ep_asc)
-- [Capacitação em Nuvem Grupo Boticário (pt-br)](https://aws-boticario.ontidwit.com/#/)
-- [Microsoft Azure Virtual Training Days (en)](https://events.microsoft.com/pt-br/mvtd-azure?language=English&clientTimeZone=1&startTime=08:00&endTime=17:00)
-
+## 🔗 [Cloud](https://github.com/molocohrrr/roadmap-appsecbr/blob/main/Cloud/Iniciando.md)
   
-## Pentests e Ferramentas
-Sendo uma área relativamente nova, as responsabilidades do profissional de AppSec podem variar entre as empresas (conheça mais sobre as diferentes formas de fazer AppSec [nessa palestra da Gi Assis "gihyperia"](https://www.youtube.com/watch?v=UCmX5mo0b1U&list=PLUJRxfaTTjKwjkyLiWtxPh5gADtbG5Oo1&index=3&t=527s)). Dito isso, em muitas empresas será comum que a atividade de pentest também seja uma atividade de AppSec. Então, é essencial que você manje de descoberta de vulnerabilidades, como complemento aos seus conhecimentos em code review e uso de ferramentas de análise de código. Nessa frente, a ferramenta que mais usada, será o 💰 [BurpSuite](https://portswigger.net/burp). É altamente recomendado fazer o [curso gratuito oferecido por eles](https://portswigger.net/web-security) e **opcionalmente** tirar a cert deles, se tu tiver um troquinho sobrando aí (hoje gira mais ou menos em torno de 100 dólares).
+## 🔗 [Pentests e Ferramentas](https://github.com/molocohrrr/roadmap-appsecbr/blob/main/Pentests%20e%20Ferramentas/Iniciando.md)
 
-Outros cursos que podem te ajudar a desenvolver conhecimentos em descoberta de vulnerabilidades (alguns também tem prova de certificação!):
-- 💰 [Web Hacking na Prática](https://app.hackingclub.com)
-- 💰 [Pentest DESEC](https://desecsecurity.com/curso/novo-pentest-profissional)
-- [Portswigger Academy](https://portswigger.net/web-security/all-labs)
-- [Introdução ao Pentest - Desec](https://desecsecurity.com/curso/introducao-pentest)
+## 🔗 [Mobile](https://github.com/molocohrrr/roadmap-appsecbr/blob/main/Mobile/Iniciando.md)
 
-
-## Mobile
-Embora seja opcional quando se está por migrar ou em início de carreira, a avaliação de riscos em mobile se torna um diferencial gigantesco a medida que você evoluir!  Alguns recursos quepodem te ajudar a evoluir nesse item são:
-- [Android Application Security Series](https://manifestsecurity.com/android-application-security/)
-- [Android Applications Reversing 101](https://www.evilsocket.net/2017/04/27/Android-Applications-Reversing-101/#.WQND0G3TTOM.reddit)
-- [Engenharia Reversa de Apps Android](https://www.youtube.com/watch?v=eHdDS2e_qf0&list=PL4zZ9lJ-RCbfv6f6Jc8cJ4ljKqENkTfi7)
-- 💰 [Android Hacker's Handbook](https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X)
-- 💰 [eMAPT](https://security.ine.com/certifications/emapt-certification/)
-
-#### 💰  Optar Java como a sua principal linguagem reduzirá muito a dificuldade em aprender sobre essa parte!
-
-
-## Soft Skills
-Soft Skills e comunicação assertiva são muito importantes para alguém de AppSec, mas **muito** mesmo, quase mais do que as hard skills! Isso é dito porque faz parte do cotidiano conversar com devs que estão nos mais variados níveis de carreira, desde o estagiário até o expert conhecido na bolha dev. Nessas horas não basta dizer: "esse código tá ruim, corrige aí". É esperado que alguém de AppSec se torne uma referência, tenha jogo de cintura, seja maleável (a vida não é binária né?) e saber conversar e explicar coisas pra pessoas que nem sempre estão propensas a concordar contigo, além de normalmente não terem background de segurança.
-
-"Ah, mas vulnerabilidade é vulnerabilidade"! Sim, até você precisar explicar porquê uma vulnerabilidade que só pode ser executada em ambiente restrito é crítica e precisa ter sua correção priorizada frente a um backlog apertado, com datas de lançamento vencidas. Nessas horas são as soft skills que provalecem: correções tomam tempo da sprint do dev e com outras coisas que eles precisam entregar. Agir com empatia junto ao dev, aprender a demonstrar para pessoas não-técnicas como um risco pode se tornar perda financeira e lembrar que **segurança não aceita risco, mas apresenta com clareza a probabilidade de exploração** vão te ajudar a ter sucesso nessa frente.
-
-Soft Skills também podem ser desenvolvidas. Considere os seguintes conteúdos:
-- [Soft skills: o que são, 10 principais exemplos e como desenvolver](https://www.gupy.io/blog/soft-skills)
-- 💰 [Soft skills: competências essenciais para os novos tempos - Lucedile Antunes ](https://www.amazon.com.br/Soft-skills-compet%C3%AAncias-essenciais-tempos-ebook/dp/B08KWDD7N7)
-- [3 dicas para ter Comunicação Assertiva no trabalho - Bianca Celoto](https://www.youtube.com/watch?v=rqE_mxXlZik)
-
+## 🔗 [Soft Skills](https://github.com/molocohrrr/roadmap-appsecbr/blob/main/Soft%20Skills/Iniciando.md)
 
 # Conteúdos extras e criadores legais de seguir:
 - [Ben-Hur](https://twitter.com/guiadeappsec) do [Guia de AppSec](https://www.guiadeappsec.com.br/), ele também tem um [canal no youtube](https://www.youtube.com/@GuiadeAppSec) com dicas
