@@ -4,7 +4,7 @@
 A partir de hoje, a OWASP é a sua melhor amiga. Se você não sabe quem é a OWASP e também não usou o Google até aqui, confira [aqui](https://owasp.org/about/). A seguir, alguns dos principais projetos da OWASP. Observe que a OWASP tem [mais de 300 projetos](https://owasp.org/projects/), e essa lista foi construída com base em experiência, podendo variar de empresa pra empresa. 
 
 ### OWASP Top 10
-O maior projeto que você precisa acompanhar é o [Top 10](https://owasp.org/www-project-top-ten/). A OWASP Top 10 é uma coleção das 10 principais ameaças de seguranças identificadas pela organização. Atualizada de tempos em tempos, consiste de oito principais levantadas por meio de análise de dados, considerando "prevalência" ao invés de quantidade de testes, e duas orquestradas pela comunidade. Observe que, quando falamos de "Top 10 OWASP", geralmente nos referimos ao Top 10 de vulnerabilidades WEB. No entanto, a OWASP disponibiliza um Top 10 Mobile, API, LLM, entre outros. É muito importante identificar o que faz mais sentido no contexto da sua empresa!
+O maior projeto que você precisa acompanhar é o [Top 10](https://owasp.org/www-project-top-ten/). A OWASP Top 10 é uma coleção das 10 principais ameaças de seguranças identificadas pela organização. Atualizada de tempos em tempos, consiste de oito principais levantadas por meio de análise de dados, considerando "prevalência" ao invés de quantidade de testes, e duas orquestradas pela comunidade. Observe que, quando falamos de "Top 10 OWASP", geralmente nos referimos ao Top 10 de vulnerabilidades WEB. No entanto, a OWASP disponibiliza um [Top 10 Mobile](https://owasp.org/www-project-mobile-top-10/), [API](https://owasp.org/API-Security/editions/2023/en/0x11-t10/), LLM, entre outros. É muito importante identificar o que faz mais sentido no contexto da sua empresa!
 
 #### 💡 Além dessa extrema relevância, o Top 10 é de longe o tópico mais perguntado nas entrevistas para a senioridade júnior/sandy: geralmente pedem o conceito de uma ou mais vulnerabilidades, como identificar ela no código, como ela pode ser explorada e qual seria a correção sugerida! 
 
@@ -16,4 +16,13 @@ O ASVS (Application Security Verification Standard) é um conjunto de requisitos
 ### Cheatsheets
 O OWASP Cheatsheets é um recurso que consiste em documentos de referência rápida contendo orientações práticas e conselhos para abordar desafios específicos de segurança em desenvolvimento de software. Esses cheatsheets são projetados para auxiliar a implementar boas práticas de segurança durante o ciclo de vida do desenvolvimento de software e abrangem uma variedade de tópicos, desde codificação segura até mitigação de ameaças específicas, fornecendo informações detalhadas e acionáveis para melhorar a segurança de aplicações. Esse projeto costuma ser uma mão na roda ao lidar com desenvolvedores com menos experiência em segurança, com traz exemplos de código em linguagens específicas, com soluções práticas que elespodem reutilizar.
 - [OWASP CheatsheetSeries](https://cheatsheetseries.owasp.org/index.html)
+
+### OWASP Testing Guide
+
+#### [WSTG - Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+O projeto OWASP WSTG produz o principal recurso de testes de segurança para desenvolvedores de aplicações web e profissionais de segurança. O WSTG é um guia completo para testar a segurança de aplicações e serviços na web. Criado pelos esforços colaborativos de profissionais de segurança cibernética e voluntários dedicados, o WSTG fornece uma estrutura de melhores práticas utilizadas por pentesters e organizações em todo o mundo.
+#### [MASTG - Mobile Security Testing Guide](https://mas.owasp.org/MASTG/)
+O OWASP Mobile Application Security Testing Guide (MASTG) é um manual abrangente para testes de segurança de aplicativos mobile e engenharia reversa. Descreve processos técnicos para verificação dos controles listados no OWASP MASVS.
+
+
 

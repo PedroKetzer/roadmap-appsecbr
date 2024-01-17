@@ -6,3 +6,4 @@ Pensando em processos, maturidade e treinamentos, podem te auxiliar:
 - [Security Champions Playbook (pt-br)](https://github.com/c0rdis/security-champions-playbook/tree/master/Security%20Playbook_PTBR)
 - [OWASP SAMM (en)](https://owaspsamm.org)
 - [Security Champions: Elevando a Maturidade de Segurança - Helena Carreço "Molocohorror"](https://www.youtube.com/watch?v=tJ7kqOtyuxQ&t=8131s)
+- [OWASP DevSecOps Guideline (en)](https://owasp.org/www-project-devsecops-guideline/)
