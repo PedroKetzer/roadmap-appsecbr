@@ -41,6 +41,9 @@ Entende-se que, se você chegou até esse repo, na maioria dos casos é porque v
 - [Daiane "wh0isdxk" Santos](https://www.instagram.com/wh0isdxk/) do [MobileHackingBr](https://www.instagram.com/mobilehackingbr/)
 - [Edu Santos](https://www.instagram.com/edusantos.official/) do canal [WarmSec](https://www.youtube.com/@edusantos.official)
 
+## Vídeos:
+- (EN) [Learn Application Security Testing in 2024](https://www.youtube.com/watch?v=4-E5qcHvpEk)
+
 # Seção final e considerações
 Com isso, você já deve estar bem munido(a) para começar a sua carreira e tentar a sorte nas vagas! Não se iluda que é um caminho fácil e que acaba somente com os conteúdos recomendados aqui. **Não é**, tem muito mais conteúdo que você precisará. Mas, é uma jornada recompensadora, desde o dia 1 (:
 
