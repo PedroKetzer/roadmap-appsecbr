@@ -10,6 +10,7 @@ Alguns links para te apoiar nesse tema:
 - [Paradigmas de Programação - João Paulo Leite](https://www.youtube.com/playlist?list=PLsri1g4fxrjuf6UCYHqCmqsfXR4gofAFH)
 - [How to Analyze Code for Vulnerabilities - Vickie Li (en)](https://www.youtube.com/watch?v=A8CNysN-lOM)
 - [In Code Review We Trust! Finding Security Bugs (pt-br) - Helena Carreço](https://www.youtube.com/watch?v=gewNYKjYybA&t=5586s)
+- [Cybersecurity "Experts" suck at coding. It's a problem.](https://www.youtube.com/watch?v=bJk_NThPbyE)
 - [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/)
 - 💰 [PentesterLab](https://pentesterlab.com/)
 - 💰 [CodeBashing](https://www.codebashing.com/)
