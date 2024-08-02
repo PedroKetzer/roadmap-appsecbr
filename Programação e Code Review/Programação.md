@@ -12,6 +12,8 @@ Alguns links para te apoiar nesse tema:
 - [In Code Review We Trust! Finding Security Bugs (pt-br) - Helena Carreço](https://www.youtube.com/watch?v=gewNYKjYybA&t=5586s)
 - [Cybersecurity "Experts" suck at coding. It's a problem.](https://www.youtube.com/watch?v=bJk_NThPbyE)
 - [OWASP Code Review Guide](https://owasp.org/www-project-code-review-guide/)
+- [Teach YourSelf CS](https://teachyourselfcs.com/)
+- 💰 [CS50](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) - Somente o certificado é pago
 - 💰 [PentesterLab](https://pentesterlab.com/)
 - 💰 [CodeBashing](https://www.codebashing.com/)
 

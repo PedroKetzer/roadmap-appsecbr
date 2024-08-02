@@ -7,3 +7,4 @@ Pensando em processos, maturidade e treinamentos, podem te auxiliar:
 - [OWASP SAMM (en)](https://owaspsamm.org)
 - [Security Champions: Elevando a Maturidade de Segurança - Helena Carreço "Molocohorror"](https://www.youtube.com/watch?v=tJ7kqOtyuxQ&t=8131s)
 - [OWASP DevSecOps Guideline (en)](https://owasp.org/www-project-devsecops-guideline/)
+- 💰 [Livro - Explicando Application Security](https://cassiodeveloper.com.br/livro/)

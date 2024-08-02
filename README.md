@@ -16,23 +16,23 @@ Entende-se que, se você chegou até esse repo, na maioria dos casos é porque v
 
 ##### 💡 Clique na sessão desejada para se aprofundar no tema. Todas as sugestões de curso/conteúdo a seguir são gratuitas, exceto marcadas com 💰
 
-## 🔗 [Programação e Code Review](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Programa%C3%A7%C3%A3o%20e%20Code%20Review/Iniciando.md)
+## 🔗 [Programação e Code Review](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Programa%C3%A7%C3%A3o%20e%20Code%20Review/Programação.md)
 
-## 🔗 [Modelagem de Ameaças](https://github.com/PedroKetzer/roadmap-appsecbr/tree/main/Modelagem%20de%20Amea%C3%A7as)
+## 🔗 [Modelagem de Ameaças](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Modelagem%20de%20Amea%C3%A7as/Modelagens.md)
 
-## 🔗 [DevOps e Automações de Esteira](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/DevOps%20e%20Automa%C3%A7%C3%B5es%20de%20Esteira/Iniciando.md)
+## 🔗 [DevOps e Automações de Esteira](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/DevOps%20e%20Automa%C3%A7%C3%B5es%20de%20Esteira/DevOps.md)
 
-## 🔗 [DevSecOps](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/DevSecOps/Iniciando.md)
+## 🔗 [DevSecOps](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/DevSecOps/DevSecOps.md)
 
-## 🔗 [OWASP](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/OWASP/Iniciando.md)
+## 🔗 [OWASP](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/OWASP/OWASP.md)
 
-## 🔗 [Cloud](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Cloud/Iniciando.md)
+## 🔗 [Cloud](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Cloud/Cloud.md)
   
-## 🔗 [Pentests e Ferramentas](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Pentests%20e%20Ferramentas/Iniciando.md)
+## 🔗 [Pentests e Ferramentas](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Pentests%20e%20Ferramentas/Pentests.md)
 
-## 🔗 [Mobile](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Mobile/Iniciando.md)
+## 🔗 [Mobile](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Mobile/Mobile.md)
 
-## 🔗 [Soft Skills](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Soft%20Skills/Iniciando.md)
+## 🔗 [Soft Skills](https://github.com/PedroKetzer/roadmap-appsecbr/blob/main/Soft%20Skills/SoftSkills.md)
 
 # Conteúdos extras e criadores legais de seguir:
 - [Ben-Hur](https://twitter.com/guiadeappsec) do [Guia de AppSec](https://www.guiadeappsec.com.br/), ele também tem um [canal no youtube](https://www.youtube.com/@GuiadeAppSec) com dicas

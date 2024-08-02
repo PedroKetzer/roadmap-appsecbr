@@ -23,6 +23,3 @@ O OWASP Cheatsheets é um recurso que consiste em documentos de referência ráp
 O projeto OWASP WSTG produz o principal recurso de testes de segurança para desenvolvedores de aplicações web e profissionais de segurança. O WSTG é um guia completo para testar a segurança de aplicações e serviços na web. Criado pelos esforços colaborativos de profissionais de segurança cibernética e voluntários dedicados, o WSTG fornece uma estrutura de melhores práticas utilizadas por pentesters e organizações em todo o mundo.
 #### [MASTG - Mobile Security Testing Guide](https://mas.owasp.org/MASTG/)
 O OWASP Mobile Application Security Testing Guide (MASTG) é um manual abrangente para testes de segurança de aplicativos mobile e engenharia reversa. Descreve processos técnicos para verificação dos controles listados no OWASP MASVS.
-
-
-

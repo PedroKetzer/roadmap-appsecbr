@@ -6,6 +6,8 @@ Ter conhecimentos em cloud é crucial, pois permite a implementação eficiente 
 
 Para aprender sobre esse tema:
 - [AWS Skills Centers (en)](https://aws.amazon.com/pt/training/skills-centers/?nc2=sb_ep_asc)
+- [AWS Certifications Path](https://d1.awsstatic.com/training-and-certification/docs/AWS_certification_paths.pdf)
+- [Recursos da AWS freeCodeCamp](https://www.freecodecamp.org/news/tag/aws/)
 - [Capacitação em Nuvem Grupo Boticário (pt-br)](https://aws-boticario.ontidwit.com/#/)
 - [Microsoft Azure Virtual Training Days (en)](https://events.microsoft.com/pt-br/mvtd-azure?language=English&clientTimeZone=1&startTime=08:00&endTime=17:00)
 - [Cloud Architecture Security - OWASP (en)](https://cheatsheetseries.owasp.org/cheatsheets/Secure_Cloud_Architecture_Cheat_Sheet.html)

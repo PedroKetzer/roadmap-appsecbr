@@ -10,7 +10,7 @@ Para aprender sobre modelagem, veja:
 - [OWASP Threat Dragon](https://owasp.org/www-project-threat-dragon/)
 - [IriusRisk DeRisker Training Program](https://www.iriusrisk.com/derisker-training-and-certification)
 - [Threat Modeling Security Fundamentals - Microsoft](https://learn.microsoft.com/en-us/training/paths/tm-threat-modeling-fundamentals/)
-- [ Maturing Your Threat Modeling Skills - Semgrep](https://www.youtube.com/watch?v=2zxYPwpPVis)
+- [Maturing Your Threat Modeling Skills - Semgrep](https://www.youtube.com/watch?v=2zxYPwpPVis)
 
 # Os primeiros passos sobre a modelagem
 
