@@ -41,6 +41,12 @@ Entende-se que, se você chegou até esse repo, na maioria dos casos é porque v
 - [Daiane "wh0isdxk" Santos](https://www.instagram.com/wh0isdxk/) do [MobileHackingBr](https://www.instagram.com/mobilehackingbr/)
 - [Edu Santos](https://www.instagram.com/edusantos.official/) do canal [WarmSec](https://www.youtube.com/@edusantos.official)
 
+# Criadores estrangeiros:
+- Tayna, mais conhecida como [She Hacks Purple](https://www.youtube.com/@SheHacksPurple)
+- O canal do [The Cyber Mentor](https://www.youtube.com/@TCMSecurityAcademy)
+- [Tib3rius](https://www.youtube.com/Tib3rius)
+- Ben Sadeghipour, mais conhecido como [NahamSec](https://www.youtube.com/@NahamSec)
+
 ## Vídeos:
 - (EN) [Learn Application Security Testing in 2024](https://www.youtube.com/watch?v=4-E5qcHvpEk)
 
