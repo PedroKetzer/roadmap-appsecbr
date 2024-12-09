@@ -16,6 +16,8 @@ Alguns links para te apoiar nesse tema:
 - 💰 [CS50](https://www.harvardonline.harvard.edu/course/cs50-introduction-computer-science) - Somente o certificado é pago
 - 💰 [PentesterLab](https://pentesterlab.com/)
 - 💰 [CodeBashing](https://www.codebashing.com/)
+- 💰 [CodeCrafters.io](https://app.codecrafters.io/catalog) - Modelo Freemium
+- 💰 [Exercism.rog](https://exercism.org) - Somente 'penduricalhos' (e.g modo dark) são pagos
 
 Alguns links sobre desenvolvimento seguro:
 - [OWASP Secure Coding Practices-Quick Reference (en)](https://owasp.org/www-project-secure-coding-practices-quick-reference-guide/)
